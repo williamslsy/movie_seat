@@ -1,6 +1,6 @@
 ## Movie Seat Booking
 
-[Movie Seats](https://github.com/williamslsy/movie_seat) | [Live Demo](https://williamslsy.github.io/movie_seat/) |
+[Live Demo](https://williamslsy.github.io/movie_seat/) |
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
 ## Project Specifications
